@@ -1,0 +1,25 @@
+Task 1: Create a state diagram
+
+Here is your task
+
+For your first task, you'll be creating a state diagram for the loan management system at Citi. Here are your instructions:
+Before you begin, review the links provided in the Resources section below. Ensure you understand how to use a state diagram to illustrate states, events, and actions within a system. Review the notation used to create a diagram with UML.
+Think through the requirements of the loan management process. What situations does your diagram need to cover? Be sure to review the supplemental resources for ideas.
+Identify a start and end state for your diagram. How does the loan process begin, and how does it end?
+Identify key states in the loan process, as well as the actions that trigger a change between states. The loan application state, for example, might end when the loan is either approved or rejected.
+When you're ready to explore the relationships between these states and actions, you can start creating a draft state diagram. You can use the site of your choice to create your diagram, but we suggest diagrams.net. This is a free website that requires no login or registration.
+Review your state diagram to ensure it accurately represents the loan management process, and make any revisions as needed. When you're finished, you can save your diagram to your device as a draw.io file.
+ 
+After completing this task, you can submit your draw.io file as a screenshot or PDF below. To view the example answer if you don't have the draw.io application, download the file to your device and import it to diagrams.net.
+
+Here are some resources to help you
+
+UML Diagrams in draw.io
+ 
+Unified Modeling Language for State Diagrams
+ 
+All You Need to Know About State Diagrams
+ 
+How a Loan Management System Works
+ 
+Building the In-House Loan Management System
