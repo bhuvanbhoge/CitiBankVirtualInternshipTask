@@ -1,0 +1,29 @@
+Task 2: Write a feature proposal
+Here is your task
+In this task, you’ll write a brief proposal for a credit risk modeling system for use in Citi’s loan management system. Here are your instructions:
+
+Before you begin, review the resources provided below to learn about how existing credit risk modeling systems work.
+Determine the data your model will need. What input variables will be used to predict credit risk?
+Determine what the model will output. What will the output variables look like?
+Explore possible model types and architectures that can be used for this system.
+Consider the risks or challenges of creating a credit risk modeling system.
+When you've collected all your ideas, write up a brief proposal for this potential feature! We've included a "Proposal Template" in the Resources section below to get you started, but you may write it in any way you think is appropriate.
+
+Once you've completed your feature proposal, you can submit it in the text submission box below using this template:
+
+Credit Risk Modeling Proposal
+[Sum up the benefits of a machine learning system for credit risk modeling here]
+
+Data Requirements
+[What does a system like this require? What variables would help build a good system?
+
+Data Outputs
+[What are important outputs that loan officers will use to make an informed loan approval decision?]
+
+Architecture
+[Review the various model types and architectures available for this type of machine learning system. What are the common choices and what will perform best given our restraints?]
+
+Risks and Challenges
+[What are some of the risks and challenges we’ll need to keep in mind while developing this credit risk modeling system?]
+
+Here are some resources to help you
